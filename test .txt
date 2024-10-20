@@ -1,0 +1,2 @@
+temp/
+Não deveria ir para o git
